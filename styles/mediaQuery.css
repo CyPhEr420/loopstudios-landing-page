@@ -21,7 +21,7 @@
   .mobile-nav-brand {
     display: flex;
     position: absolute;
-    right: 38px;
+    right: 30px;
     left: 25px;
     top: 50px;
     justify-content: space-between;
